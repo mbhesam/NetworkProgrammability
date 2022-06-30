@@ -1,0 +1,5 @@
+Switch1,Switch2,Switch3,Switch4
+ip source binding 7393.936b.edcd vlan 5 192.168.5.13 interface eth1/0,ip source binding 7393.936b.a712 vlan 6 192.168.6.13 interface eth1/0,ip source binding 7393.936b.abc4 vlan 7 192.168.7.13 interface eth1/0,ip source binding 7393.936b.cde7 vlan 8 192.168.8.13 interface eth1/0
+ip source binding 7393.936b.1abc vlan 5 192.168.5.14 interface eth1/1,ip source binding 7393.936b.7ab4 vlan 6 192.168.6.14 interface eth1/1,ip source binding 7393.936b.cd54 vlan 7 192.168.7.14 interface eth1/1,ip source binding 7393.936b.edc5 vlan 8 192.168.8.14 interface eth1/1
+ip source binding 7393.936b.298e vlan 5 192.168.5.15 interface eth1/2,ip source binding 7393.936b.98bd vlan 6 192.168.6.15 interface eth1/2,ip source binding 7393.936b.678c vlan 7 192.168.7.15 interface eth1/2,ip source binding 7393.936b.abc8 vlan 8 192.168.8.15 interface eth1/2
+ip source binding 7393.936b.38a3 vlan 5 192.168.5.16 interface eth1/3,ip source binding 7393.936b.65ce vlan 6 192.168.6.16 interface eth1/3,ip source binding 7393.936b.87ed vlan 7 192.168.7.16 interface eth1/3,ip source binding 7393.936b.8acd vlan 8 192.168.8.16 interface eth1/3
