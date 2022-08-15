@@ -106,3 +106,4 @@ if __name__ == "__main__":
         vlan_num = i + 2
         trunk_interface(tn)
         tn.close()
+
